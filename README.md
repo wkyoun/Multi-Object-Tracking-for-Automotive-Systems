@@ -1,6 +1,10 @@
 # Multi-Object-Tracking
 Repository for the course "Multi-Object Tracking for Automotive Systems" at EDX Chalmers University of Technology
 
+Note: I have completed all assignments in the course and obfuscated key function by using encrypted p files, since it is not
+allowed to release solution publicly on github, according to EDX policy. Any interest in implementation details will be discussed
+privately.
+
 ## Home-Assignment 01 (SA2) - Single-Object Tracking in Clutter
 Implementation of the following algorithms:
 - [x] Nearest Neighbors Filter (NN)
